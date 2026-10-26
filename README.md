@@ -27,14 +27,14 @@ Here are some of the projects I've built along my learning journey. Feel free to
     <tr>
       <td>1</td>
       <td>Personal Portfolio</td>
-      <td><a href="https://github.com/vincentvertolicha/vincentvertolicha.github.io">Source Code</a></td>
-      <td><a href="https://vincentvertolicha.github.io">Live Preview</a></td>
+      <td><a href="https://github.com/vincentvertolicha/vincentvertolicha.github.io" target="_blank">Source Code</a></td>
+      <td><a href="https://vincentvertolicha.github.io" target="_blank">Live Preview</a></td>
     </tr>
         <tr>
       <td>2</td>
       <td>Product Catalog - Summerplate</td>
-      <td><a href="https://github.com/vincentvertolicha/summerplate">Source Code</a></td>
-      <td><a href="https://vincentvertolicha.github.io/summerplate">Live Preview</a></td>
+      <td><a href="https://github.com/vincentvertolicha/summerplate" target="_blank">Source Code</a></td>
+      <td><a href="https://vincentvertolicha.github.io/summerplate" target="_blank">Live Preview</a></td>
     </tr>
   </tbody>
 </table>
